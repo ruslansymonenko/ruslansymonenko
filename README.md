@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">A fullstack developer (React, Node) from Ukraine</h3>
+<h3 align="center">A full stack developer (React, Node) from Ukraine</h3>
 
 - 📫 How to reach me **symonenkors@gmail.com**
 
