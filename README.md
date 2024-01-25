@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">A full stack developer (React, Node) from Ukraine</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
