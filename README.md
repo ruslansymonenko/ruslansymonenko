@@ -13,14 +13,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="./assets/typescript.svg" alt="typescritp" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/golang.svg" alt="golang" width="40" height="40"/>
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/html.svg" alt="golang" width="40" height="40"/>
+      <img src="./assets/html.svg" alt="html" width="40" height="40"/>
    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/css.svg" alt="golang" width="40" height="40"/>
+      <img src="./assets/css.svg" alt="css" width="40" height="40"/>
     </a>
   </p>
 
