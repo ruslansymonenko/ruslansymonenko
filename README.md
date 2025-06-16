@@ -13,8 +13,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="./assets/typescript.svg" alt="typescritp" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/golang.svg" alt="golang" width="40" height="40"/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+      <img src="./assets/python.png" alt="golang" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="./assets/html.svg" alt="golang" width="40" height="40"/>
@@ -113,5 +113,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslansymonenko&show_icons=true&locale=en&layout=compact" alt="ruslansymonenko" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansymonenko&show_icons=true&locale=en" alt="ruslansymonenko" /></p>
 
 
