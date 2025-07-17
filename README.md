@@ -27,6 +27,9 @@
   <hr>
 
   <p>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+      <img src="./assets/django.svg" alt="django" width="40" height="40"/>
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="./assets/node.svg" alt="node js" width="40" height="40"/>
     </a>
