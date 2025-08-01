@@ -27,14 +27,14 @@
   <hr>
 
   <p>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-      <img src="./assets/django.svg" alt="django" width="40" height="40"/>
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="./assets/node.svg" alt="node js" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
       <img src="./assets/express.svg" alt="express js" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+      <img src="./assets/django.svg" alt="django" width="40" height="40"/>
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
       <img src="./assets/nest.svg" alt="nest" width="40" height="40"/>
