@@ -116,6 +116,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslansymonenko&show_icons=true&locale=en&layout=compact" alt="ruslansymonenko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslansymonenko&show_icons=true&locale=en" alt="ruslansymonenko" /></p>
-
 
